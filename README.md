@@ -7,7 +7,6 @@ My coding journey before starting BIT at Herald.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    '<title>My Career Goal</title>'
 </head>
 <body>
     <h1>I am Sukalpa Devkota</h1>
