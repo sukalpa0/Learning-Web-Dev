@@ -1,5 +1,5 @@
 # Learning-Web-Dev
-My coding journey before starting BIT at Herald.
+Web development practice - HTML, CSS, JS exercises
 [index.html](https://github.com/user-attachments/files/26159603/index.html)
 
 <!DOCTYPE html>
